@@ -1,10 +1,10 @@
 # Требования
  
-
+ 
 ## Contents
 
 1. [Chapter I](#chapter-i) \
-    1.1. [Задача 1. Запись на стрижку (Sign up for a haircut)](#1) \
+    1.1. [Задача 1. Запись на стрижку (Sign up for a haircut)](#1) 
     1.2. [Задача 2. Доставка заказов (Delivery of orders)](#2)
 2. [Chapter II](#chapter-ii) \
     2.1. [Exercise 00 — Roles and their activities as is (Роли и их действия as is)](#3) \
