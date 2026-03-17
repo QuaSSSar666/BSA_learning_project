@@ -2,7 +2,6 @@
 
 ## Contents
 
-
 1. [Chapter I](#chapter-i) \
     1.1. [Задача 1. Запись на стрижку (Sign up for a haircut)](#1) \
     1.2. [Задача 2. Доставка заказов (Delivery of orders)](#2)
